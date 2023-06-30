@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import StarRating from "./StarRating";
 
-const tempMovieData = [
+const tempata = [
   {
     imdbID: "tt1375666",
     Title: "Inception",
