@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react";
 import StarRating from "./StarRating";
-
+// *Not completed yet*
+// Need to make seperate files for these functions
 const tempata = [
   {
     imdbID: "tt1375666",
